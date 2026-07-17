@@ -1,0 +1,10 @@
+{
+  "name": "zenfocus",
+  "version": "1.0.0",
+  "description": "ZenFocus - Motivation Timer with adjustable timer, world clock, alarms, ringtones, and celebration photos",
+  "private": true,
+  "scripts": {
+    "dev": "npx --yes serve .",
+    "start": "npx --yes serve ."
+  }
+}
