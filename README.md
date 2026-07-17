@@ -1,1 +1,2 @@
 # Zenfocus
+ZenFocus is a clean and responsive productivity web application that provides users with a distraction-free environment to improve concentration and manage study or work sessions efficiently. User can also set alarm with different ringtones of their choice and can set timer of their choice. The application combines an intuitive user interface with smooth animations and interactive components to create an engaging focus experience. Frontend- HTML5 CSS3 JavaScript (ES6) Development- Antigravity IDE Kilo Code Extension Git GitHub
